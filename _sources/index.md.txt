@@ -1,6 +1,6 @@
-# Page Title
+# Timi's website
 
-A short introduction for the top of your main page
+I love to eat and sleep.
 
 
 More content you want on your page
